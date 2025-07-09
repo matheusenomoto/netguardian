@@ -25,7 +25,7 @@ The key principle is the **Dependency Rule**: source code dependencies can only 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone git@github.com:matheusenomoto/netguardian.git
     cd netguardian
     ```
 
